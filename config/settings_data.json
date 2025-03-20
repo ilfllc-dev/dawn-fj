@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "logo": "{{ shop.brand.logo }}",
@@ -145,39 +145,27 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "8605505498557855500": {
         "type": "shopify://apps/bogos-io-free-gift/blocks/app-embed/0432bba6-720a-4e95-be5a-b868386f7aa6",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "855628211100114053": {
         "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "17676059084223943535": {
         "type": "shopify://apps/triplewhale/blocks/triple_pixel_snippet/483d496b-3f1a-4609-aea7-8eee3b6b7a2a",
         "disabled": false,
-        "settings": {
-        }
-      },
-      "11532412952436166569": {
-        "type": "shopify://apps/loox-reviews/blocks/loox-inject/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-        "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "7570552984445421165": {
         "type": "shopify://apps/yotpo-product-reviews-ugc/blocks/settings/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
         "disabled": true,
-        "settings": {
-        }
+        "settings": {}
       },
       "14339172867238703359": {
         "type": "shopify://apps/yotpo-product-reviews-ugc/blocks/reviews_tab/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
@@ -189,32 +177,17 @@
       "10210280153655228688": {
         "type": "shopify://apps/easyredirect/blocks/redirect_agent/cfb4276e-4045-4545-b0c6-f8373f3fa290",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "6174324309569838175": {
         "type": "shopify://apps/smile-io/blocks/smile-shopify-app/2fae4e25-1841-4ea2-bc02-bd548478c4f6",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "10641372206048101839": {
         "type": "shopify://apps/rebuy-personalization-engine/blocks/rebuy-global-embed/a26ae9b9-933b-40bf-bbc6-bf1220bbc4dc",
         "disabled": false,
-        "settings": {
-        }
-      },
-      "1996061711396120121": {
-        "type": "shopify://apps/uppromote-affiliate/blocks/message-bar/64c32457-930d-4cb9-9641-e24c0d9cf1f4",
-        "disabled": true,
-        "settings": {
-        }
-      },
-      "9005256451184024879": {
-        "type": "shopify://apps/uppromote-affiliate/blocks/customer-referral/64c32457-930d-4cb9-9641-e24c0d9cf1f4",
-        "disabled": true,
-        "settings": {
-        }
+        "settings": {}
       },
       "3886164968910392608": {
         "type": "shopify://apps/geolizr/blocks/geolizr/aef0b9c9-52b7-4101-afe7-e3014ff137aa",
@@ -248,7 +221,7 @@
           "background": "#f7f7f7",
           "background_gradient": "",
           "text": "#191516",
-          "button": "#7ebc51",
+          "button": "#007dba",
           "button_label": "#191516",
           "secondary_button_label": "#191516",
           "shadow": "#191516"
@@ -259,7 +232,7 @@
           "background": "#f3f3f3",
           "background_gradient": "",
           "text": "#121212",
-          "button": "#7ebc51",
+          "button": "#007dba",
           "button_label": "#191516",
           "secondary_button_label": "#121212",
           "shadow": "#121212"
@@ -278,7 +251,7 @@
       },
       "scheme-4": {
         "settings": {
-          "background": "#ff8811",
+          "background": "#60e1e0",
           "background_gradient": "",
           "text": "#191516",
           "button": "#ffffff",
@@ -289,7 +262,7 @@
       },
       "scheme-5": {
         "settings": {
-          "background": "#7ebc51",
+          "background": "#007dba",
           "background_gradient": "",
           "text": "#191516",
           "button": "#191516",
@@ -303,7 +276,7 @@
           "background": "#f7f7f7",
           "background_gradient": "",
           "text": "#191516",
-          "button": "#ff8811",
+          "button": "#60e1e0",
           "button_label": "#191516",
           "secondary_button_label": "#191516",
           "shadow": "#191516"
@@ -314,9 +287,9 @@
           "background": "#191516",
           "background_gradient": "",
           "text": "#f7f7f7",
-          "button": "#7ebc51",
+          "button": "#007dba",
           "button_label": "#191516",
-          "secondary_button_label": "#7ebc51",
+          "secondary_button_label": "#007dba",
           "shadow": "#191516"
         }
       }
@@ -515,8 +488,6 @@
     }
   },
   "platform_customizations": {
-    "custom_css": [
-
-    ]
+    "custom_css": []
   }
 }
