@@ -1,0 +1,22 @@
+{% comment %}
+  This is the Zendesk Chat App connection -- we decided to only load it on the Contact Us page to save load time on other pages.
+{% endcomment %}
+{% if page.handle == 'contact-us' %}
+  <script
+    id="ze-snippet"
+    async
+    src="https://static.zdassets.com/ekr/snippet.js?key=9c5d4ff0-829a-4415-8f15-d7f72563fb1e"
+  ></script>
+{% endif %}
+
+{% comment %}
+  Traffic Junky Tracker info
+{% endcomment %}
+<meta
+  http-equiv="Delegate-CH"
+  content="sec-ch-ua https://ads.trafficjunky.net; sec-ch-ua-arch https://ads.trafficjunky.net; sec-ch-ua-full-version-list https://ads.trafficjunky.net; sec-ch-ua-mobile https://ads.trafficjunky.net; sec-ch-ua-model https://ads.trafficjunky.net; sec-ch-ua-platform https://ads.trafficjunky.net; sec-ch-ua-platform-version https://ads.trafficjunky.net;"
+>
+{% comment %}
+  Font awesome for icons
+{% endcomment %}
+<script async src="https://kit.fontawesome.com/4f96faf358.js" crossorigin="anonymous"></script>

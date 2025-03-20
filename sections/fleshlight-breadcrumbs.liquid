@@ -1,0 +1,28 @@
+<nav class="breadcrumb page-width">
+  <a href="/">Home</a> /
+  {% if collection %}
+    <a href="/collections/{{ collection.handle }}">{{ collection.title }}</a> /
+  {% endif %}
+  <span>{{ product.title }}</span>
+</nav>
+<style>
+  .breadcrumb {
+    display: flex;
+    font-size: 10px;
+  }
+
+  .breadcrumb a {
+    color: #000; /* Link color */
+    text-decoration: none;
+    margin-right: 5px;
+  }
+
+  .breadcrumb span {
+    color: #888; /* Non-link color for current page */
+  }
+  @media (min-width: 768px) {
+    .breadcrumb {
+      font-size: 14px; /* For larger screens */
+    }
+  }
+</style>

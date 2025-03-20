@@ -1,28 +1,574 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
-    "image_banner": {
-      "type": "image-banner",
+    "fleshlight_image_banner_AkLLqA": {
+      "type": "fleshlight-image-banner",
+      "custom_css": [
+        "@media (max-width: 749px) {div {display: none !important; }}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/FL_Desktop_1980x670_82b0203c-c4b2-4c08-b753-114b488e73f4.jpg",
+        "image_link_url": "shopify://collections/fantasy",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "fleshlight_slideshow_93VbkX": {
+      "type": "fleshlight-slideshow",
       "blocks": {
-        "heading": {
-          "type": "heading",
+        "slide_UU6B3w": {
+          "type": "slide",
           "settings": {
-            "heading": "Image banner",
-            "heading_size": "h0"
+            "image": "shopify://shop_images/FL_Mobile_475x570_2.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://collections/best-sellers-1",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
           }
         },
-        "text": {
+        "slide_FiKWrX": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/FL_Mobile_475x570_aa057620-03c7-4f65-9c4f-bdedf39e3c04.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "Button label",
+            "link": "shopify://collections/lubricant-men",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_UU6B3w",
+        "slide_FiKWrX"
+      ],
+      "custom_css": [
+        "@media (min-width: 750px) {div {display: none !important; }}",
+        ".slideshow__controls {display: none;}"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": ""
+      }
+    },
+    "fleshlight_image_banner_7aJAUn": {
+      "type": "fleshlight-image-banner",
+      "disabled": true,
+      "custom_css": [
+        "@media (max-width: 749px) {div {display: none !important; }}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/D0LL8Apw.jpg",
+        "image_link_url": "",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "fleshlight_image_banner_dAh8zd": {
+      "type": "fleshlight-image-banner",
+      "disabled": true,
+      "custom_css": [
+        "@media (min-width: 750px) {div {display: none !important; }}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/FL_Mobile_475x570_aa057620-03c7-4f65-9c4f-bdedf39e3c04.jpg",
+        "image_link_url": "https://www.fleshlight.ca/collections/lubricant-men",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "fleshlight_slideshow_qj4zp4": {
+      "type": "fleshlight-slideshow",
+      "blocks": {
+        "slide_y9GdDb": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/FL_Desktop_1980x670_5.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://collections/best-sellers-1",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_4MTtJN": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/D0LL8Apw.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://collections/lubricant-men",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_y9GdDb",
+        "slide_4MTtJN"
+      ],
+      "custom_css": [
+        "@media (max-width: 749px) {div {display: none !important; }}"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": ""
+      }
+    },
+    "fleshlight_slideshow_3HfHMG": {
+      "type": "fleshlight-slideshow",
+      "blocks": {
+        "slide_miGg3U": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/FL_Mobile_475x570-Twisted_2dcd247c-c3d5-4412-be52-2b782094709e.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_Q49Ghz": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/FL_Mobile_475x570-Frankenstein.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://collections/fantasy",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_9tgy7P": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/FL_Mobile_475x570-Drac.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://collections/fantasy",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_FRwz76": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/FL_Mobile_475x570-Cyborg.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://collections/fantasy",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_jaYzt3": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/FL_Mobile_475x570-Bigfoot.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://collections/fantasy",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_miGg3U",
+        "slide_Q49Ghz",
+        "slide_9tgy7P",
+        "slide_FRwz76",
+        "slide_jaYzt3"
+      ],
+      "custom_css": [
+        "@media (min-width: 750px) {div {display: none !important; }}",
+        ".slideshow__controls {display: none;}"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 3,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "rich_text_Ecjx7a": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_H9U3gm": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Most Trusted Name in Male Sex Toys</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "caption_jQqKF8": {
+          "type": "caption",
+          "settings": {
+            "caption": "As Seen in",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        }
+      },
+      "block_order": [
+        "heading_H9U3gm",
+        "caption_jQqKF8"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-5",
+        "full_width": true,
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "multicolumn_UJpAFi": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_drJcxV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/social_proof_logo_1_dfa2eef4-473d-401d-8b96-0faaaf746896.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_hznhGD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/HBOLogo_1.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_TqFyeF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/GQLogo_1.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_7HQE4K": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/social_proof_logo_5_1.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_drJcxV",
+        "column_hznhGD",
+        "column_TqFyeF",
+        "column_7HQE4K"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-5",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_JpkPEy": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_EHFhNE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Orgy-6a-Mobile_5ca51d1a-2875-4d34-857d-4753e8255b03.jpg",
+            "title": "Buy More Save More",
+            "text": "<p>Build your own orgy and invite anyone you want. The more Fleshlight Girls you buy, the more you save!</p>",
+            "link_label": "Save Now",
+            "link": "shopify://collections/orgy"
+          }
+        },
+        "column_JCb4Ae": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/buy2get1free-01Catalog_Mobile-US_1.jpg",
+            "title": "Buy 2 Get 1 Free",
+            "text": "<p>Shop our Sleeve Only selection, when you buy 2 your 3rd one is free!</p>",
+            "link_label": "Save Now",
+            "link": "shopify://collections/sleeves"
+          }
+        },
+        "column_a3tHBE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/FLD-Collection-2022-Combo_Packs_1.jpg",
+            "title": "Save over 15%",
+            "text": "<p>Shop our premade combos to save up to save.</p>",
+            "link_label": "Shop Combos",
+            "link": "shopify://collections/fleshlight-combo-packs"
+          }
+        }
+      },
+      "block_order": [
+        "column_EHFhNE",
+        "column_JCb4Ae",
+        "column_a3tHBE"
+      ],
+      "settings": {
+        "title": "Lookin' for a deal?",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "portrait",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "Shop all Deals",
+        "button_link": "shopify://pages/deals",
+        "color_scheme": "scheme-1f753864-be83-4976-99c2-29485ac10f3e",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_product_En8cby": {
+      "type": "featured-product",
+      "blocks": {
+        "text_pTemnF": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_7rdtx9": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_GHDCct": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "text_hYmwDP": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Save 20% and qualify for <strong>Free Shipping</strong>! Perfect for first time buyers, this starter pack includes everything you need to get going. Enjoy the convenience of having the best Fleshlight features all in one package.",
             "text_style": "body"
           }
         },
-        "button": {
-          "type": "buttons",
+        "buy_buttons_4KcA6G": {
+          "type": "buy_buttons",
           "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify://collections/all",
-            "button_style_secondary_1": true,
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        }
+      },
+      "block_order": [
+        "text_pTemnF",
+        "title_7rdtx9",
+        "price_GHDCct",
+        "text_hYmwDP",
+        "buy_buttons_4KcA6G"
+      ],
+      "settings": {
+        "product": "super-stamina-training-unit-combo",
+        "color_scheme": "scheme-1f753864-be83-4976-99c2-29485ac10f3e",
+        "secondary_background": false,
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "right",
+        "image_zoom": "none",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_hfL9ji": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "New to Fleshlight?",
+        "heading_size": "h1",
+        "description": "<p>Check out some of our best sellers</p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "best-sellers-1",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1f753864-be83-4976-99c2-29485ac10f3e",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": true,
+        "quick_add": "standard",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 24
+      }
+    },
+    "rich_text_aEn8nD": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hjztmc": {
+          "type": "heading",
+          "settings": {
+            "heading": "Need some help deciding?",
+            "heading_size": "h1"
+          }
+        },
+        "text_EnpYKq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Here's a Fleshlight buyers guide</p>"
+          }
+        },
+        "button_m3NJ4g": {
+          "type": "button",
+          "settings": {
+            "button_label": "Read Guide (TODO)",
+            "button_link": "",
+            "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
@@ -30,181 +576,209 @@
         }
       },
       "block_order": [
-        "heading",
-        "text",
-        "button"
+        "heading_hjztmc",
+        "text_EnpYKq",
+        "button_m3NJ4g"
       ],
       "settings": {
-        "image_overlay_opacity": 40,
-        "image_height": "large",
-        "desktop_content_position": "bottom-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-3",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-5",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
-    "rich_text": {
-      "type": "rich-text",
+    "featured_collection_FidXhP": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Fleshlight Girls",
+        "heading_size": "h1",
+        "description": "<p>Get <strong>exact</strong> replicas of your favorite stars.</p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "fleshlight-girls",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1f753864-be83-4976-99c2-29485ac10f3e",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": true,
+        "quick_add": "standard",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_product_CE9477": {
+      "type": "featured-product",
       "blocks": {
-        "heading": {
-          "type": "heading",
+        "title_WwpF4z": {
+          "type": "title",
           "settings": {
-            "heading": "Talk about your brand",
             "heading_size": "h1"
           }
         },
-        "text": {
-          "type": "text",
+        "price_kRhnmY": {
+          "type": "price",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "variant_picker_jnmUJj": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_3pP4NP": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_cPG7mH": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_AzTVqK": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
           }
         }
       },
       "block_order": [
-        "heading",
-        "text"
+        "title_WwpF4z",
+        "price_kRhnmY",
+        "variant_picker_jnmUJj",
+        "quantity_selector_3pP4NP",
+        "buy_buttons_cPG7mH",
+        "share_AzTVqK"
       ],
       "settings": {
-        "color_scheme": "scheme-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
-    },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured products",
-        "heading_size": "h2",
-        "collection": "all",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "color_scheme": "scheme-1",
-        "show_view_all": false,
-        "swipe_on_mobile": false,
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "columns_mobile": "2",
-        "padding_top": 28,
-        "padding_bottom": 36
-      }
-    },
-    "collage": {
-      "type": "collage",
-      "blocks": {
-        "collection-0": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false
-          }
-        },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection-0",
-        "product",
-        "collection-1"
-      ],
-      "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "scheme-1",
+        "product": "universal-launch-stamina-lady-pack",
+        "color_scheme": "scheme-1f753864-be83-4976-99c2-29485ac10f3e",
+        "secondary_background": false,
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
     },
-    "video": {
+    "video_tYJkye": {
       "type": "video",
       "settings": {
         "heading": "",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "heading_size": "h1",
+        "enable_video_looping": false,
+        "video": "shopify://files/videos/Product video revised .mp4",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "description": "",
-        "full_width": false,
-        "color_scheme": "scheme-1",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "full_width": true,
+        "color_scheme": "scheme-1f753864-be83-4976-99c2-29485ac10f3e",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
-    "multicolumn": {
+    "multicolumn_iz8HVE": {
       "type": "multicolumn",
       "blocks": {
-        "column1": {
+        "column_EqdztY": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify://shop_images/stamina-training-unit-lady-fleshlight-539517.jpg",
+            "title": "Stamina Training Unit",
+            "text": "<p>Every guy wants to last longer, right? This has our Stamina Training Unit (STU) texture inside a gold case.</p>",
+            "link_label": "Buy Here",
+            "link": "shopify://collections/stamina-training-fl-toys"
           }
         },
-        "column2": {
+        "column_PegpJC": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify://shop_images/fleshlight-boost-fleshlight-797817.jpg",
+            "title": "Boost",
+            "text": "<p>More realistic orifices, tighter texture and a better suction control.</p>",
+            "link_label": "Buy Here",
+            "link": "shopify://collections/boost"
           }
         },
-        "column3": {
+        "column_xAVUcg": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify://shop_images/turbo-core-blue-ice-fleshlight-977219.jpg",
+            "title": "Turbo",
+            "text": "<p>Tripled tiered entrance mimics the feeling of the ultimate blow job. It's awesome, check it out!</p>",
+            "link_label": "Buy Here",
+            "link": "shopify://collections/turbo"
+          }
+        },
+        "column_KLct4R": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/quickshot-vantage-pack-fleshlight-477822.png",
+            "title": "Quickshot",
+            "text": "<p>Fleshlight's Open Ended stroker. Easy to clean up, easy to enjoy!</p>",
+            "link_label": "Buy Here",
+            "link": "shopify://collections/quickshot"
           }
         }
       },
       "block_order": [
-        "column1",
-        "column2",
-        "column3"
+        "column_EqdztY",
+        "column_PegpJC",
+        "column_xAVUcg",
+        "column_KLct4R"
       ],
       "settings": {
-        "title": "",
+        "title": "Fleshlight Product Lines",
         "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
+        "image_width": "full",
+        "image_ratio": "circle",
+        "columns_desktop": 4,
+        "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "swipe_on_mobile": false,
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-1f753864-be83-4976-99c2-29485ac10f3e",
         "columns_mobile": "1",
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
     }
   },
   "order": [
-    "image_banner",
-    "rich_text",
-    "featured_collection",
-    "collage",
-    "video",
-    "multicolumn"
+    "fleshlight_image_banner_AkLLqA",
+    "fleshlight_slideshow_93VbkX",
+    "fleshlight_image_banner_7aJAUn",
+    "fleshlight_image_banner_dAh8zd",
+    "fleshlight_slideshow_qj4zp4",
+    "fleshlight_slideshow_3HfHMG",
+    "rich_text_Ecjx7a",
+    "multicolumn_UJpAFi",
+    "multicolumn_JpkPEy",
+    "featured_product_En8cby",
+    "featured_collection_hfL9ji",
+    "rich_text_aEn8nD",
+    "featured_collection_FidXhP",
+    "featured_product_CE9477",
+    "video_tYJkye",
+    "multicolumn_iz8HVE"
   ]
 }
